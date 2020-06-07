@@ -4,3 +4,5 @@ def function():
 
 a= 5
 print(a)
+123
+fjhfj
